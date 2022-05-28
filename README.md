@@ -4,6 +4,16 @@
 
 A helper library full of URL-related heuristics.
 
+
+is shopify
+
+is tiktok
+
+is douyin
+
+is bilibili
+
+
 ## Installation
 
 You can install `ural` with pip with the following command:
